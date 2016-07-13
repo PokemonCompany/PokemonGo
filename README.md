@@ -1,2 +1,4 @@
-Just added some text01
+=======
+Just added some text02
+>>>>>>> hotfix
 This is my first try with GIT
